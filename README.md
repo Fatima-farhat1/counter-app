@@ -4,11 +4,11 @@ A simple counter application built with **Angular**.
 
 ##Features
 
-➕ Increment the counter
-➖ Decrement the counter
-🔄 Reset the counter
-🚫 Prevents the counter from going below 0
-🎨 Simple and responsive user interface
+*➕ Increment the counter
+*➖ Decrement the counter
+*🔄 Reset the counter
+*🚫 Prevents the counter from going below 0
+*🎨 Simple and responsive user interface
 
 ## Technologies
 
