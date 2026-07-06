@@ -3,7 +3,7 @@ Counter App
 A simple Counter Application built with Angular to practice the fundamentals of Angular components, event binding, property binding, and TypeScript.
 ## features
 
-*➕ Increment the counter
+➕ Increment the counter
 ➖ Decrement the counter
 🔄 Reset the counter
 🚫 Prevents the counter from going below 0
