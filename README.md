@@ -1,27 +1,53 @@
-# CounterApp
+# Counter App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
+A simple counter application built with **Angular**.
 
-## Development server
+Features
+➕ Increment the counter
+➖ Decrement the counter
+🔄 Reset the counter
+🚫 Prevents the counter from going below 0
+🎨 Simple and responsive user interface
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Technologies
 
-## Code scaffolding
+* Angular
+* TypeScript
+* HTML
+* SCSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+Clone the repository:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```bash
+git clone  https://github.com/Fatima-farhat1/counter-app.git
+```
 
-## Running unit tests
+Go to the project folder:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+cd counter-app
+```
 
-## Running end-to-end tests
+Install dependencies:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```bash
+npm install
+```
 
-## Further help
+Run the application:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```bash
+ng serve
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:4200/
+```
+
+## Author
+
+**Fatima Farhat**
