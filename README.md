@@ -2,7 +2,8 @@
 
 A simple counter application built with **Angular**.
 
-Features
+##Features
+
 ➕ Increment the counter
 ➖ Decrement the counter
 🔄 Reset the counter
